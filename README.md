@@ -1,18 +1,14 @@
-<h1 align="centre">🎶 Aditya-Player 🎶</h1>
+<h1 align="centre">🎶 ABHI-PLAYER 🎶</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
-<p align="center">
-  <img src="https://telegra.ph/file/8b4520f3f471e3ce253ee.jpg">
-</p>
+
 
 ## Give your 💙
 
 Before clicking on deploy to heroku just click on fork and star just below
 
-<p align="center">
-  <a href="https://github.com/AdityaHalder/Aditya-Player/fork">
-    <img src="https://img.shields.io/github/forks/AdityaHalder/Aditya-Player?label=Fork&style=social">
+
     
   </a>
   <a href="https://github.com/AdityaHalder/Aditya-Player">
@@ -20,20 +16,12 @@ Before clicking on deploy to heroku just click on fork and star just below
   </a>
 </p>
 
-## How to deploy 
 
-Click the below button to watch the video tutorial on deploying
-
-<a href="https://youtube.com/adityahalder"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtube.com/adityahalder"><img src="https://img.shields.io/youtube/views/koAzUgNQaDU?style=social">
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AdityaHalder/Aditya-Player"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ps123sharma/abhishek-player"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
-### Deploy To Railway 🚄</h5>
-
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AdityaHalder/Aditya-Player/tree/Aditya-Player&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,PMPERMIT,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 ###  GET STRING SESSION FROM REPL RUN
 
