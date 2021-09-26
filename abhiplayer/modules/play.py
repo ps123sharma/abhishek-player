@@ -835,10 +835,7 @@ async def play(_, message: Message):
                 InlineKeyboardButton("📝 Ƥɭɑƴɭɩsʈ 📝", callback_data="playlist"),
                 InlineKeyboardButton("🎧 Ɱɘɳʋ 🎧", callback_data="menu"),
             ],
-            [
-                    InlineKeyboardButton(text="🌐 Ƈɦɑɳɳɘɭ 🌐", url=f"{https://t.me/abhixupdates}"),
-                    InlineKeyboardButton(text="💬 Ɠɤøʋƥ 💬", url=f"{https://t.me/abhixdiscuss}"),
-            ],
+            
             [InlineKeyboardButton(text="❌ Ƈɭøsɘ ❌", callback_data="cls")],
         ]
     )
