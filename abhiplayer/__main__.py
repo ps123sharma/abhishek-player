@@ -1,5 +1,5 @@
-# AdityaPlayer (Telegram bot project)
-# Copyright (C)  Aditya Halder
+# Abhiplayer (Telegram bot project)
+# Copyright (C)  Abhishek
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
